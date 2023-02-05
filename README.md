@@ -1,4 +1,4 @@
-# Fetching GitHub data using Axios Fetch Method and Hooks 
+# Fetching GitHub data using Fetch Method and Hooks 
 
 Website Link
 https://github-data-fetch.netlify.app/
